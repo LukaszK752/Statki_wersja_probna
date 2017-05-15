@@ -1,0 +1,15 @@
+Nazwa programu: Gra w statki 
+
+Opis: Gra któr¹ chcê stworzyæ ma byæ wersj¹ popularnej gry statki, w której przeciwnikiem bêdzie komputer.
+
+Gra bêdzie sk³ada³a siê z nastêpuj¹cych czêœci:
+1. Wybór wieloœci planszy
+2. Wybór statków (iloœæ, wielkoœæ) - im wiêksza plansza tym wiêcej statków mo¿na wybraæ
+2. Ustawienie pozycji statków przez u¿ytkownika, oraz komputer (wykorzystuj¹ce pseudolosowoœæ)
+3. Gra przeciwko komputerowi:
+	a) U¿ytkownik bêdzie wskazywa³ dane pole przy pomocy GUI
+	b) Komputer bêdzie losowa³ pole wykorzysuj¹c pseudolosowoœæ + prost¹ logikê dzia³ania (d¹¿enie do zatopienia statku po jego trafieniu)
+	c) Grê wygrywa ten kto zatopi wszystkie statki przeciwnika
+4. Inne funkcje:
+	a) Wyœwietlanie liczby statków, które pozosta³y zarówno komputerowi jak i graczowi
+	b) Wyœwietlanie czasu gry
